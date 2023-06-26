@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estebanRojasOjeda
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning MERN in Coding Dojo
+- 🌱 I’m currently learning AI technologies
 - 📫 How to reach me: esteban1987@protonmail.com
 
 <!---
